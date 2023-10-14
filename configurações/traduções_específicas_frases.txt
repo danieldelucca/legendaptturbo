@@ -1,0 +1,202 @@
+# Essa funcionalidade traduz da forma listada aqui as frases em outro idioma listadas aqui.
+# As frases aqui listadas precisam terminar com pontuação e sempre a substituição será feita
+# se a frase aqui listada estiver na legenda em começo de linha ou de frase,
+# ou seja, depois de . ! ? : ou depois de vírgula.
+# Se quiser que ocorrências depois de vírgula sejam detectadas e substituídas,
+# inclua uma linha com a expressão em caixa baixa
+
+# Exemplo:
+# Queremos substituir 'See you!' por 'Até mais!' (Pois às vezes o tradutor traduz como "Vê você!")
+# All right. See you! --> Certo. Até mais!   (precisa estar nesta lista: 'See you!')
+
+# All right, see you! --> Certo, até mais!   (precisa estar nesta lista: 'see you!')
+# isso permite mais controle sobre quando as substituições são feitas
+
+# Para adiciona títulos ou qualquer coisa que não deva ser detectada pelo programa,
+# inclua # no início da linha
+
+# INÍCIO DA LISTA:
+
+# English
+All right, = Certo,
+
+Anyone in here? = Tem alguém aqui?
+Anyone out there? = Tem alguém aí?
+
+Careful! = Cuidado!
+careful! = cuidado!
+Careful. = Cuidado.
+
+You believe that? = Você acha?
+
+God! = Meu Deus!
+
+He did? = Sério?
+He's back. = Ele voltou.
+He's back! = Ele voltou!
+He is back. = Ele voltou.
+He is back! = Ele voltou!
+
+Here you go. = Toma.
+Hold on. = Espere.
+Hold on! = Espere!
+
+I am back. = Eu voltei.
+I got this. = Deixa comigo.
+I got this! = Deixa comigo!
+I got this, = Deixa comigo,
+I was a child. = Eu era criança.
+I was a child! = Eu era criança!
+I was a child, = Eu era criança,
+I'm back. = Voltei.
+I'm out of here! = Fui!
+I'm out of here. = Fui.
+I'm outta here! = Fui!
+I'm outta here. = Fui.
+I should go. = Preciso ir.
+I should go! = Preciso ir.
+It's ok. = Tudo bem.
+It's OK. = Tudo bem.
+It's okay. = Tudo bem.
+It's a tough crowd. = É uma plateia difícil.
+It's a tough crowd, = É uma plateia difícil,
+It's a tough crowd! = É uma plateia difícil!
+It's all right. = Tudo bem.
+It's alright. = Tudo bem.
+It is a tough crowd. = É uma plateia difícil.
+It is a tough crowd, = É uma plateia difícil,
+It is a tough crowd! = É uma plateia difícil!
+
+Just in case. = Caso precise.
+
+Knock yourself out. = Fique à vontade.
+Knock yourself out! = Fique à vontade!
+Knock yourselves out. = Fiquem à vontade.
+Knock yourselves out! = Fiquem à vontade!
+
+Oh, God! = Meu Deus!
+Oh, God. = Meu Deus.
+Over. = Câmbio.
+Over! = Câmbio!
+
+Period. = Ponto final.
+Period! = Ponto final!
+
+Ready? = Preparado?
+
+see you. = até mais.
+see you! = até mais!
+see you, = até mais,
+See you, = Até mais,
+See you. = Até mais.
+See you! = Até mais!
+See you later, = Até mais,
+See you later. = Até mais.
+See you later! = Até mais!
+See you soon. = Até logo.
+See you soon! = Até logo!
+See you soon, = Até logo,
+See you tomorrow, = Até amanhã,
+See you tomorrow! = Até amanhã!
+See you tomorrow. = Até amanhã.
+She did? = Sério?
+She's back. = Ela voltou.
+She's back! = Ela voltou!
+She is back. = Ela voltou.
+She is back! = Ela voltou!
+Shall we? = Vamos lá?
+
+Tell me about it. = Nem me fale.
+Tell me about it! = Nem me fale!
+That is a tough crowd. = É uma plateia difícil.
+That is a tough crowd, = É uma plateia difícil,
+That is a tough crowd! = É uma plateia difícil!
+They did? = Sério?
+This is a tough crowd. = É uma plateia difícil.
+This is a tough crowd, = É uma plateia difícil,
+This is a tough crowd! = É uma plateia difícil!
+
+We're back. = Voltamos.
+We're back! = Voltamos!
+We are back. = Nós voltamos.
+We are back! = Nós voltamos!
+We should go. = Precisamos ir.
+We should go! = Precisamos ir!
+What's the point? = Para quê?
+What is the point? = Para quê?
+What would be the point? = Para quê?
+Who is they? = Eles quem?
+Who is 'they'? = Eles quem?
+Who is "they"? = Eles quem?
+Who's they? = Eles quem?
+Who's 'they'? = Eles quem?
+Who's "they"? = Eles quem?
+Which is? = Que seria?
+
+Yes, yes, yes, yes. = Sim, sim.
+yes, yes, yes, yes. = sim, sim.
+You bet. = Pode apostar.
+You bet! = Pode apostar!
+You did? = Sério?
+You do. = Sério.
+You do? = Sério?
+You know what? = Quer saber?
+You're back. = Você voltou.
+You know, = Sabe,
+You know? = Sabe?
+
+# Español
+Chaíto! = Tchau!
+Chaíto, = Tchau,
+Chaíto. = Tchau.
+chaíto. = tchau.
+chaíto! = tchau!
+chaíto, = tchau,
+
+lo mismo digo. = digo o mesmo.
+Lo mismo digo. = Digo o mesmo.
+lo mismo digo! = Digo o mesmo!
+
+Mija, = Filha,
+mija, = filha,
+Mija. = Filha.
+mija. = filha.
+Mija! = Filha!
+mija! = filha!
+Mija? = Filha?
+mija? = filha?
+
+Mijo, = Filho,
+mijo, = filho,
+Mijo! = Filho!
+mijo! = filho!
+mijo? = filho?
+Mijo? = Filho?
+
+No pasa nada. = Tudo bem.
+
+Oigan a este, = Olha só,
+Oigan a esta, = Olha só,
+Oigan a este. = Olha só.
+Oigan a esta. = Olha só.
+Oigan a este! = Olha só!
+Oigan a esta! = Olha só!
+
+Ombe! = Cara!
+ombe! = cara!
+Ombe? = Cara?
+ombe? = cara?
+Ombe. = Cara.
+ombe. = cara.
+
+Pasó algo? = Aconteceu alguma coisa?
+Ponme atención. = Preste atenção.
+
+Que pasa? = O que houve?
+Quiubo? = E aí?
+Quiubo! = E aí?
+Quiubo. = E aí?
+Quiubo, = E aí,
+
+Yo que sé! = Eu sei lá.
+Yo que sé. = Eu sei lá.

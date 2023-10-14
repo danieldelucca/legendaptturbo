@@ -1,0 +1,29 @@
+# SUBSTITUIÇÕES SEM PONTUAÇÃO
+
+# aqui serão substituídos os itens desde que não haja pontuação em seguida ao termo
+# exemplo:  	A sua casa é aqui perto? ---> Sua casa é aqui perto?
+#		(não tem pontuação seguida do termo "a sua", listado aqui, portanto será substituído)
+
+# 		Essa casa é a sua?
+#		(nesse caso não ocorrerá a substituição, pois "a sua" nessa frase está seguido de ?
+
+a minha = minha
+a nossa = nossa
+a sua = sua
+as minhas = minhas
+as nossas = nossas
+as suas = suas
+
+em um = num
+em uma = numa
+em uns = nuns
+em umas = numas
+
+o meu = meu
+o nosso = nosso
+o seu = seu
+os meus = meus
+os nossos = nossos
+os seus = seus
+
+vou só = só vou

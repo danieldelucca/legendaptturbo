@@ -1,0 +1,17 @@
+# Substituir termos e/ou caracteres do arquivo de legenda no idioma estrangeiro
+# sem limites de palavras, isto é, os termos listados aqui serão substituídos
+# mesmo estando dentro ou nas extremidades de uma palavra.
+# (Para maiores informações, veja o arquivo LEIAME.TXT)
+
+
+.... = ...
+,... = ...
+!? = ?
+?! = ?
+!!!!! = !
+!!!! = !
+!!! = !
+!! = !
+o.k., = OK,
+O.k., = OK,
+% = ' por cento'

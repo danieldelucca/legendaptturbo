@@ -1,0 +1,138 @@
+# CONFIGURAÇÕES DO LEGENDA PT TURBO
+# Não altere as linhas que começam com '#'.
+# Para instruções detalhadas, veja o arquivo LEIAME.txt
+
+
+# TAMANHO MÁXIMO DE LINHA (em caracteres)
+42
+
+
+# DURAÇÃO MÍNIMA DA LEGENDA (em segundos)
+1
+
+
+# DURAÇÃO MÁXIMA DA LEGENDA (em segundos)
+7
+
+
+# INTERVALO ENTRE LEGENDAS (em frames)
+2
+
+# FRAME RATE (em quadros por segundo)
+23.976
+
+
+# NOMES FEMININOS
+# nomes femininos de personagens do vídeo que sejam incomuns e o script não consiga detectar
+Cindy
+María
+
+
+# NOMES MASCULINOS
+# nomes masculinos de personagens do vídeo que sejam incomuns e o script não consiga detectar
+Jason
+Ricardo
+
+
+# SUBSTITUIÇÕES ESPECÍFICAS
+# substituições específicas que o tradutor queira fazer em toda a legenda
+# para adicionar termos, ponha os dois termos na mesma linha separados por '=', 
+# como no modelo abaixo:
+
+termo_ou_frase_a_ser_substituído = termo_ou_frase_para_entrar_no_lugar
+
+
+
+
+
+
+# REMOVER LINHAS COM ISSO:
+Tradução e Resync
+Tradução:
+Legendas por
+WWW.MY-SUBS.CO
+www.MY-SUBS.com
+Sincronização e correções
+
+
+# ATIVE OU DESATIVE AS FUNCIONALIDADES ABAIXO
+# As opções desta parte valem tanto para as transformações da preparação da legenda em língua estrangeira
+# para tradução quanto para as transformações da legenda traduzida em português.
+# coloque 'sim' ou 'não' embaixo da descrição da opção
+
+
+# - remover palavras repetidas separadas por vírgula e deixar apenas uma
+ativar > sim
+
+
+# - remover frases repetidas e deixar apenas uma
+ativar > sim
+
+
+# - remover reticências (...) do começo das legendas
+ativar > não
+
+
+# - remover reticências (...) do fim das legendas
+ativar > não
+
+
+# - remover 'se', 'me' e 'nos' dos verbos 'abaixar', 'agachar', 'encontrar', 'deitar', 'levantar', 'sentar',
+# 'virar', 'lembrar' 'esquecer', 'cansar', 'casar', 'quebrar'
+ativar > sim
+
+
+# - remover interjeições como 'ah', 'ei', 'ai', etc
+ativar > sim
+
+
+# - transformar gerúndio português em brasileiro (estava a fazer --> estava fazendo)
+ativar > sim
+
+
+# - corrigir minúsculas depois de pontuação
+ativar > sim
+
+
+# - remover o caractere ♪ e colocar a linha em itálico
+ativar > sim
+
+
+# - remover totalmente as legendas de música com o caractere ♪
+ativar > não
+
+
+# - transformar ênclise em próclise (amo-te --> te amo)
+ativar > sim
+
+
+# - transformar 'você' (quando objeto) em te (adoro você --> te adoro)
+ativar > sim
+
+
+# - transformar 'para você' e 'a você' em 'te' com alguns verbos (dizer, falar, contar, devolver, emprestar, etc)
+ativar > sim
+
+
+# - transformar 'a gente' apenas no verbo conjugado na 1a pessoa do plural (A gente foi... --> Fomos...)
+ativar > sim
+
+
+# - transformar 'de' em 'do'/'da' antes de nomes captados
+ativar > sim
+
+
+# - transformar 'mais... do que' em 'mais... que' / 'menos... do que' em 'menos... que'
+ativar > sim
+
+
+# - deixar primeira letra depois de pontuação maiúscula
+ativar > sim
+
+
+# - diálogos com espaço depois de travessão (- Olá, tudo bem?)
+ativar > não
+
+
+# - transformar '...' em '--'
+ativar > não

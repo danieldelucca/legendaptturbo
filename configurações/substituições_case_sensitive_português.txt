@@ -1,0 +1,211 @@
+# SUBSTITUIÇÕES CASE SENSITIVE
+
+# Os itens listados à esquerda do = em cada linha são substituídos pelos da direita.
+# Este arquivo é para substituições "case sensitive", isto é, as maiúsculas e minúsculas dos termos listados aqui são respeitados.
+# As substituições geradas por este arquivo também respeitam exatamente a pontuação de cada termo aqui - se houver '.', apenas substituirá o termo se também tiver '.'.
+# Para mais explicações sobre como usar este recurso, vá para o final deste arquivo
+
+
+# TERMO PARA SAIR = TERMO PARA ENTRAR:
+
+3... 2... 1... = Três, dois, um.
+A ver. = Vamos ver.   						# do espanhol 'A ver.'
+A ver, = Olha,   						# do espanhol 'A ver.'
+Acredite em mim = Acredite
+Agora acontece que = Quer dizer que agora
+Algo aconteceu? = Aconteceu alguma coisa?
+'Amor ' = 'O amor '						# Amor nunca falha. --> O amor nunca falha.
+Arca de Noah = Arca de Noé   					# se o nome Noah for traduzido como Noé
+arca de Noah = Arca de Noé
+arca de noah = Arca de Noé
+Ave María = Ave Maria
+Ave a María = Ave Maria
+Ave a Maria = Ave Maria
+
+Bem? = Tudo bem?
+Bem, bem, bem = Ora, ora
+Bem ou não? = Tudo bem?
+
+ceo = CEO
+Como vai você? = Tudo bem?
+Como vai? = Tudo bem?
+Como vai? = Tudo bem?
+
+De acordo com a minha experiência = Pela minha experiência
+dr = Dr.
+dr. = Dr.
+dra = Dra.
+dra. = Dra.
+'Dr ' = 'Dr. '
+'Dra ' = Dra.
+
+E isso o que foi? = O que foi isso?
+E isso, o que foi? = O que foi isso?
+É por isso que = Por isso que
+E será = Será
+É só que = É que
+Então o quê? = E então?
+Então o que? = E então?
+Escute, = Escuta,
+Eu estou = Estou
+Eu já volto. = Já volto.
+Eu me sinto como um = Estou me sentindo um
+Eu me sinto como uma = Estou me sentindo uma
+Eu não = Não   # 'Eu não moro aqui.' --> 'Não moro aqui.'
+Eu não faço ideia. = Não faço ideia.
+Eu posso ver que = Vejo que
+Eu prometo. = Prometo.
+Eu sei que = Sei que
+Eu também não = Também não   					# Eu também não o vi. --> Também não o vi.
+Eu te conto depois = Depois te conto
+Eu volto já. = Já volto.
+Exatamente. = Exato.
+
+Falo sério. = Estou falando sério.
+Feito. = Pronto.						# 'Done'.
+
+Isso não é o que eu = Não é o que eu
+Isso é que é = Isso que é
+Lamento lhe dizer = Lamento dizer
+Lamento, = Desculpe,
+Lembrar? = Lembra?						# Remember?
+
+Mas acredite em mim, = Mas acredite,
+Mas, = Mas
+Me conte sobre isso. = Nem me fale.
+Me perdoe? = Como?
+Meu reino por = Eu daria tudo para
+Me sinto como um = Estou me sentindo um
+Me sinto como uma = Estou me sentindo uma
+Meu Deus lhe pague = Deus lhe pague
+Muito obrigado = Muito obrigado,
+Multar. = Tudo bem.
+
+Na verdade = Na verdade,
+Não, Não = Não, não
+Não, Não. = Não, não.
+Não, Não! = Não, não!
+Não, sim = Sim
+Não há nada de errado comigo. = Está tudo bem comigo.
+Não se mova daqui = Não saia daqui
+Nós nos esquivamos de uma bala lá. = Escapamos de uma.
+Nós não = Não
+
+O que agora? = E agora?
+O que faz aqui = O que está fazendo aqui
+O que há de errado com você? = O que você tem?
+O que você está fazendo = O que está fazendo
+O que você está fazendo aqui = O que está fazendo aqui
+O que você quer dizer com isso? = O que quer dizer com isso?
+'Obrigado ' = 'Obrigado, '
+Obrigado, à = Obrigado à
+Obrigado, às = Obrigado às
+Obrigado, ao = Obrigado ao
+Obrigado, aos = Obrigado aos
+Obrigado, por = Obrigado por
+Obrigado, pelo = Obrigado pelo
+Obrigado, pelos = Obrigado pelos
+Obrigado, pela = Obrigado pela
+Obrigado, pelas = Obrigado pelas
+O.K. = Certo
+O.k., = Certo,
+OK = Certo
+Onde está todo mundo? = Cadê todo mundo?
+Onde você está indo? = Aonde você vai?
+Onde você está? = Cadê você?
+Ouça com atenção. = Preste atenção.
+Ouça. = Escuta.
+
+papai = pai
+Posso falar com você por um momento? = Posso falar com você um momento?
+
+Quê? = O quê?
+Que foi? = O que foi?
+Que se dane = Dane-se
+Que se danem = Danem-se
+Que se dane = Dane-se.
+Que se danem = Danem-se.
+Que se dane! = Dane-se!
+Que se danem! = Danem-se!
+Quero contar que = Queria contar que
+
+Rapidamente! = Rápido!
+Rapidamente. = Rápido.
+Realmente? = Sério?
+
+Sabe o quê? = Quer saber?
+Sabe o que? = Quer saber?
+Sim? = É?
+Sim, Sim = Sim, sim
+Sim, Sim. = Sim, sim.
+Sim, Sim! = Sim, sim!
+Sim, Sim, = Sim, sim,
+Sinto muito. = Desculpe.
+Suficiente. = Chega.
+Suficiente! = Chega!
+
+Tão engraçado. = Que engraçado.
+Tão quente. = Que calor.
+Te disse. = Eu te falei.
+Tem certeza? = Certeza?
+Todo mundo, = Pessoal,
+Três... Dois... Um... = Três, dois, um.
+Três... dois... um... = Três, dois, um.
+Tudo bem ou não? = Tudo bem?
+
+Um prazer. = Prazer.
+
+Ver? = Viu?
+Você deveria ver = Você tinha que ver
+Você gostaria de um pouco de = Quer um pouco de
+Você tem razão. = Tem razão.
+Você tem toda a razão. = Tem toda a razão.
+Você é estúpido ou o quê? = Você é idiota?
+Você pare = Pare
+Vou pensar sobre isso. = Vou pensar.
+Vê? = Está vendo?
+
+sr. = Sr.
+'Sr ' = 'Sr. '
+'sr ' = 'Sr. '
+'sra ' = 'Sra. '
+sra. = Sra.
+Superman = Super-Homem
+
+Tchau Tchau. = Tchau.
+
+
+
+
+
+# EXPLICAÇÕES E COMO USAR
+ 
+# Exemplo 1:
+
+# Se há uma legenda com a frase:		Eu vou pensar nisso.
+
+# E há uma linha neste arquivo com esses termos abaixo:
+# Vou pensar nisso. = Vou pensar.
+
+# O item listado acima não substituirá essa frase, pois 'Vou' tem V maiúsculo, ao contrário de 'vou' na frase de exemplo
+
+
+# Exemplo 2:
+
+# Se há uma legenda com a frase:		Eu vou pensar nisso.
+
+# Se há uma linha neste arquivo com esses termos abaixo:
+# Eu vou pensar nisso = Vou pensar.
+
+
+# O item listado acima não substituirá essa frase, pois ela termina com '.' e o termo listado, não.
+# Sem pontuação no final do termo, ele irá substituir o mesmo termo seguido de espaço ou em final de linha, sem pontuação
+# Neste caso, para que o termo com ponto também seja substituído, adicione uma nova linha com '.'
+
+# Essa lógica nos traz mais controle sobre as substituições - se queremos substituir apenas o começo de uma frase, uma frase inteira, etc
+# Para listar termos a serem substituídos independente de maiúsculas/minúsculas, use o arquivo substituições_case_insensitive.txt
+
+# Para adicionar novos termos, separe-os por =
+# Se precisar usar espaço no começo ou final, coloque o termo entre ' '
+# Para desativar alguma linha, basta colocar # no começo da linha ou deletá-la
+# Para colocar explicações, coloque # na linha, depois das palavras listadas

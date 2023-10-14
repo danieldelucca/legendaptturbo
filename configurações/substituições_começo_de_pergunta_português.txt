@@ -1,0 +1,78 @@
+# Substituições apenas em perguntas.
+# Case sensitive.
+
+# Vá até o fim deste arquivo para instruções de como usar.
+
+Aonde você vai = Aonde vai
+
+E a = A
+E alguém = Alguém
+'E aquela ' = 'Aquela '
+'E aquelas ' = 'Aquelas '
+'E aquele ' = 'Aquele '
+'E aqueles ' = 'Aqueles '
+'E aquilo ' = 'Aquilo '
+E as = As
+'E a gente ' = 'A gente '
+'E ela ' = 'Ela '
+'E elas ' = 'Elas '
+'E ele ' = 'Ele '
+'E eles ' = 'Eles '
+'E essa ' = 'Essa '
+'E essas ' = 'Essas '
+'E esse ' = 'Esse '
+'E esses ' = 'Esses '
+E ninguém = Ninguém
+'E nós ' = 'Nós '
+E o = O
+E os = Os
+E por que = Por que
+E por quê = Por quê
+E onde = Onde
+E quando = Quando
+E quanto a = E a
+E quanto à = E a
+E quanto às = E as
+E quanto ao = E o
+E quanto aos = E os
+E quanto = Quanto
+E quantos = Quantos
+E quantas = Quantas
+E quem = Quem
+E um = Um
+E uma = Uma
+E umas = Umas
+E uns = Uns
+'E você ' = 'Você '
+'E vocês ' = 'Vocês '
+
+O que está acontecendo com = O que houve com
+o que está acontecendo com = o que houve com
+O que há com você = O que você tem
+o que há com você = o que você tem
+O que você quer dizer = O que quer dizer
+por que você não = por que não
+Por que você não = Por que não
+
+Você está = Está
+você está = está
+Você quer = Quer
+você quer = quer
+Você já = Já
+você já = já
+Você lembra = Lembra
+você lembra = lembra
+Você pode = Pode
+você pode = pode
+Você sabe = Sabe
+você sabe = sabe
+Você se lembra = Lembra
+Você lembra = Lembra
+você se lembra = lembra
+você lembra = lembra
+Você tem certeza = Tem certeza
+você tem certeza = tem certeza
+Você vai = vai
+você vai = vai
+Você vê = Está vendo
+você vê = está vendo

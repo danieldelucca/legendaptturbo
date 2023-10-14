@@ -1,0 +1,92 @@
+# Substituições a serem feitas no arquivo estrangeiro,
+# antes da preparação do arquivo para a tradução no ChatGPT ou outro.
+# O intuito é remover vícios de linguagem muito repetidos.
+
+
+# Inglês
+
+are really = are very
+
+is really = is very
+
+was really = was very
+were really = were very
+
+
+# Espanhol
+
+, a ver, = ,
+, a ver. = .
+, a ver! = !
+, a ver: = :
+a ver, = ''
+a ver. = ''
+además, = y
+apá = papá
+
+, bien o no? = todo bien?
+
+con el mico al hombro = de mal humor
+
+don = Sr.
+doña = Doña
+
+ma = mamá
+, mija: = :
+, mija, = ,
+, mija. = .
+, mija! = !
+, mijo: = :
+, mijo, = ,
+, mijo. = .
+, mijo! = !
+
+no, sí = sí
+
+, o no? = ?
+o no? = ?
+, o qué? = ?
+o qué? = ?
+, oiga, = ,
+'oiga, ' = ''
+, 'oiga! = !
+, 'oiga. = .
+, oigan a esta. = mira eso.
+oigan a esta. = mira eso.
+, oigan a este. = mira eso.
+oigan a este. = mira eso.
+opah = opa
+, oyó? = !
+oyó? = !
+, oiga: = :
+, oiga, = ,
+, oiga. = .
+, ombe: = :
+, ombe. = .
+, ombe, = ,
+'ombe, ' = ''
+, ombe! = !
+, ombe? = ?
+
+, pues, = ''
+, pues? = ?
+, pues: = :
+, pues! = !
+, pues. = .
+pues, = ''
+pues? = ?
+pues: = :
+pues! = !
+pues = ''
+
+que pena contigo = disculpe
+que pena = disculpe
+
+, vea. = .
+, vea! = !
+, vea: = :
+, vea, = ,
+vea, = ''
+venga, = ''
+
+ya, ya, ya = está bien

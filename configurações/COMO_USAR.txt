@@ -1,0 +1,19 @@
+Bem-vindo! Para usar as listas contidas nesta pasta, basta escrever:
+
+termo a ser substituído = termo que vai substituir
+
+
+Exemplo:
+
+		Olá. = Oi.
+		
+	Se há a frase "Olá. Você pode me ajudar?", ela se tornará "Oi. Você pode me ajudar?"
+	
+	Se você deseja remover algum termo em todas as ocorrências na legenda, formate a linha desta forma:
+
+		Frase ou palavra para desaparecer. = ""
+
+	(as aspas devem ser retas)
+
+
+Veja o arquivo LEIAME.txt para informações sobre cada uma dessas listas.
